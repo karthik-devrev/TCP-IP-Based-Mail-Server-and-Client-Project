@@ -39,7 +39,7 @@ int is_valid_email_address(const char *address) {
         return 0;
     }
 
-    return 1;
+    return 1; 
 }
 
 int is_valid_email(const char *email) {
